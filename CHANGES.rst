@@ -1,10 +1,16 @@
 Changelog
 *********
 
-1.3.2 (unreleased)
+1.3.3 (unreleased)
 ==================
 
 - Nothing changed yet.
+
+
+1.3.2 (2018-02-05)
+==================
+
+- Add ``sorted`` in python expressions
 
 
 1.3.1 (2018-01-31)
